@@ -3,4 +3,6 @@
 *.iml
 out/
 target/
-.DS_Store
+.DS_Store.idea/
+*.iml
+out/
